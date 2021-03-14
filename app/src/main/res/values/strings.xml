@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">DaVinciApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Da Vinci</string>
+    <string name="nav_header_subtitle">Polímata Del Renacimiento</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menuPrincipal">Da Vinci</string>
+    <string name="menuPintor">Pintor</string>
+    <string name="menuEscultor">Escultor</string>
+    <string name="menuCientifico">Científico</string>
+    <string name="contentCientifico"></string>
+    <string name="menuInventor">Inventor</string>
+
+    <string name="tituloPintor">Pintor</string>
+    <string name="tituloPintura">La última cena</string>
+    <string name="descripPintura"></string>
+
+    <string name="tituloEscultor">Escultor</string>
+    <string name="tituloEscultura">La virgen con el niño riendo</string>
+    <string name="tituloInventor">Inventor</string>
+    <string name="tituloInvento">Tornillo aéreo</string>
+    <string name="tituloCientifico">Científico</string>
+    <string name="tituloCiencia">Anatomía Humana</string>
+
+    <string name="menuAlta">Alta</string>
+    <string name="menuBaja">Baja</string>
+    <string name="menuModificacion">Modificación</string>
+    <string name="todo">TODO</string>
+
+</resources>
